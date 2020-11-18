@@ -8,7 +8,7 @@
 
 ##УСТАНОВКА:
 
-pkg install python && pkg install git && pip install colorama && pip install smtplib && git clone гитхаблайма/репозиторий && cd имярепозитория && python lime-distribution.py
+pkg install python && pkg install git && pip install colorama && git clone гитхаблайма/репозиторий && cd имярепозитория && python lime-distribution.py
 
 
 
